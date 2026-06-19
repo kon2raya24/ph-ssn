@@ -1,0 +1,19 @@
+{
+  "name": "ph-ssn",
+  "version": "1.0.0",
+  "description": "Philippine SSN utilities",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest",
+    "lint": "eslint src/"
+  },
+  "keywords": ["philippines", "ssn", "validation"],
+  "author": "kon2raya",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "vitest": "^3.0.0"
+  }
+}

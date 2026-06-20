@@ -26,3 +26,9 @@ validateSSN('1234567890'); // true
 ## License
 
 MIT
+
+
+## API
+
+See source code and JSDoc comments for full API documentation.
+All exported functions include TypeScript types.
